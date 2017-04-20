@@ -1,0 +1,6 @@
+D:\Coding\VSProjects\matrix_multiplication\bin\Debug\matrix_multiplication.exe.config
+D:\Coding\VSProjects\matrix_multiplication\bin\Debug\matrix_multiplication.exe
+D:\Coding\VSProjects\matrix_multiplication\bin\Debug\matrix_multiplication.pdb
+D:\Coding\VSProjects\matrix_multiplication\obj\Debug\matrix_multiplication.csprojResolveAssemblyReference.cache
+D:\Coding\VSProjects\matrix_multiplication\obj\Debug\matrix_multiplication.exe
+D:\Coding\VSProjects\matrix_multiplication\obj\Debug\matrix_multiplication.pdb
